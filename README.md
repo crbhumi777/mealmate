@@ -19,7 +19,7 @@
 ## **Getting Started**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/meal-mate.git
+   git clone https://github.com/crbhumi777/meal-mate.git
 
 2. Build the project using Maven:
    ```bash
